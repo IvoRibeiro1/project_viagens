@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008858582494",
+    "project_id": "projetoviagens-f31f6",
+    "storage_bucket": "projetoviagens-f31f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008858582494:android:5fa914e1622e3da477614f",
+        "android_client_info": {
+          "package_name": "com.example.project_viagens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAufn4230yD6OC88J5fXkaygOIsn1uIHFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
